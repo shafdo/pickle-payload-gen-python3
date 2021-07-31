@@ -2,4 +2,6 @@
 
 * Python pickle RCE payload generator.
 
-![Preview](https://i.imgur.com/WvOTyLV.mp4)
+
+Uploading sample.mp4…
+
