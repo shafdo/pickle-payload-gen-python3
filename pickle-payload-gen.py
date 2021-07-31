@@ -1,15 +1,12 @@
 #!/bin/python3
 
-import pickle
-import base64
-import os
-import sys
-
-if(sys.argv[1] == "--help" or sys.argv[1] == "-h"):
-	print("""\nUSAGE\n=====\n./pickle-payload-gen.py <payload>\n""")
-	sys.exit()
+import pickle,base64,os,sys
 
 try:
+	if(sys.argv[1] == "--help" or sys.argv[1] == "-h"):
+		print("""\nUSAGE\n=====\n./pickle-payload-gen.py <payload>\n""")
+		sys.exit()
+
 	command = sys.argv[1]
 
 except IndexError:
