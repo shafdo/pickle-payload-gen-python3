@@ -1,6 +1,6 @@
 # 🥒 Pickle RCE payload generator python3 🥒
 
-Python's pickle Remote Code Execution payload generator. I wanted to create a python3 version of <a href="https://gist.github.com/mgeeky/cbc7017986b2ec3e247aab0b01a9edcd" target="_blank">this</a> cool script written by <a href="https://gist.github.com/mgeeky" target="_blank">@mgeeky</a>.
+Python's pickling deserialization Remote Code Execution payload generator. I wanted to create a python3 version of <a href="https://gist.github.com/mgeeky/cbc7017986b2ec3e247aab0b01a9edcd" target="_blank">this</a> cool script written by <a href="https://gist.github.com/mgeeky" target="_blank">@mgeeky</a>.
 
 
 ## Usage
@@ -19,8 +19,3 @@ Python's pickle Remote Code Execution payload generator. I wanted to create a py
 Here is a quick preview of this tool.
 
 https://user-images.githubusercontent.com/30050702/127749957-0bbaf3a2-e8cf-41c9-9416-b04a731e390b.mp4
-
-
-
-
-
