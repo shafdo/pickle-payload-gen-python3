@@ -18,6 +18,7 @@ Python's pickle Remote Code Execution payload generator. I wanted to create a py
 
 Here is a quick preview of this tool.
 
-![pickle-payload-gen-python3](https://user-images.githubusercontent.com/30050702/127749374-0fad8cf3-3abc-407d-b3a2-307151d97069.gif)
+https://user-images.githubusercontent.com/30050702/127749795-d5ff467a-b9d1-4da2-b43e-8a5c2748e844.mp4
+
 
 
