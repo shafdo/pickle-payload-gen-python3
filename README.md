@@ -1,6 +1,6 @@
 # pickle-payload-gen-python3
 
-Python pickle RCE payload generator.
+Python pickle RCE payload generator. Written in python3.
 
 ## Preview
 
