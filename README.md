@@ -11,7 +11,7 @@ Python's pickle Remote Code Execution payload generator. I wanted to create a py
 **Windows:**
 > python pickle-payload-gen.py [payload]
 
-[ NOTE ] If you did not provide any payload the default is set to **"id"** (Without quotes).
+[ NOTE ] If you did not provide any payload the default payload will be used which is **"id"** (Without quotes).
 
 
 ## Preview
